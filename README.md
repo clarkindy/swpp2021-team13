@@ -45,6 +45,13 @@ cd swpp2021-team13/frontend/probloom
 yarn test --coverage --watchAll=false
 ```
 
+## Generating Back-End Documentation (Optional)
+
+```bash
+cd swpp2021-team13/backend/probloom/docs
+poetry run make html
+```
+
 ## Running Development Server
 
 ### Back-End

@@ -37,7 +37,8 @@ Problem Set
 .. autoclass:: prob.views.ProblemSetCommentInfoView
    :members:
 
-.. autofunction:: prob.views.update_problem_set_recommendation
+.. autoclass:: prob.views.ProblemSetRecommendView
+   :members:
 
 Problem
 -------
