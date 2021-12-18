@@ -51,6 +51,7 @@ yarn test --coverage --watchAll=false
 cd swpp2021-team13/backend/probloom/docs
 poetry run make html
 ```
+You can see the documentation by opening `swpp2021-team13/backend/probloom/docs/build/html/index.html`.
 
 ## Running Development Server
 
